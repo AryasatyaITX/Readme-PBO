@@ -8,7 +8,7 @@ CARA MEMASANG KE README.md
 Semua nomor baris sudah dicocokkan dengan kode di CLONE_PBO.zip.
 -->
 
-# BAGIAN A. Tempel sebagai "4.8"
+# BAGIAN A.
 
 ### 4.8 Pemetaan OOP per Fitur Website
 
